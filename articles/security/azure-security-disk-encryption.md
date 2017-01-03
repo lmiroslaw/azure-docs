@@ -56,7 +56,7 @@ The solution does not support the following scenarios, features and technology i
 * Disable encryption on OS drive for Linux IaaS VMs
 * IaaS VMs created using classic VM creation method
 * Integration with your on-premises Key Management Service
-* Azure Files (Azure file share), Network file system (NFS), Dynamic volumes, Windows VMs configured with Software-based RAID systems
+s* Azure Files (Azure file share), Network file system (NFS), Dynamic volumes, Windows VMs configured with Software-based RAID systems
 
 ### Encryption Features
 When you enable and deploy Azure disk encryption for Azure IaaS VMs, the following capabilities are enabled, depending on the configuration provided:
